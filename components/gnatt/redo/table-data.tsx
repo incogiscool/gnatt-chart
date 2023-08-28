@@ -149,6 +149,41 @@ export const redoData: GnattData = {
         },
       ],
     },
+    {
+      title: "Software Development",
+      id: "123n89d",
+      startDate: "2023-8-30",
+      endDate: "2023-9-30",
+      tasks: [
+        {
+          title: "NextJS Installation",
+          id: "nj1e3j",
+          status: 1,
+          done: false,
+          budget: 0,
+          startDate: "2023-8-30",
+          endDate: "2023-8-30",
+        },
+        {
+          title: "Create helper functions",
+          id: "123njk",
+          status: 0.82,
+          done: false,
+          budget: 120,
+          startDate: "2023-8-31",
+          endDate: "2023-9-1",
+        },
+        {
+          title: "Deploy",
+          id: "324nkjs",
+          status: 0,
+          done: false,
+          budget: 20,
+          startDate: "2023-8-30",
+          endDate: "2023-9-28",
+        },
+      ],
+    },
   ],
 };
 
