@@ -190,7 +190,7 @@ const GnattTable = () => {
                         key={task.id}
                       >
                         <TableCell>
-                          <div className="flex items-center gap-2">
+                          <div className="flex items-center gap-2 pl-2">
                             <span className="flex justify-center items-center">
                               <Checkbox />
                             </span>
